@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 Bem-vindo ao meu repositório no GitHub!Fico feliz com sua visita,espero que encontre algo interessante por aqui 👍
 
