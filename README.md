@@ -26,5 +26,5 @@ Stack: Java - Spring - MySQL - JUnit - Python<br/>
 Universidade: Estacio de Sá - Análise e desenvolvimento de Sistemas - 3° Semeste
 
 
-A tecnologia pode sim dar um mundo melhor e acessível para todos!
+A tecnologia pode dar um mundo melhor e acessível para todos!
 
