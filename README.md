@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-### Olá! Eu sou o Felipe Santos 🤙
-
 Bem-vindo ao meu repositório no GitHub!Fico feliz com sua visita,espero que encontre algo interessante por aqui 👍
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesantt/)
