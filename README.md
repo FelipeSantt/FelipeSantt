@@ -8,9 +8,9 @@ Bem-vindo ao meu repositório no GitHub!Fico feliz com sua visita,espero que enc
 
 ### Um resumo do que eu ja fiz por aqui
 
-![Felipe Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSantt&show_icons=true&theme=onedark)
+![Felipe Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSantt&show_icons=true&theme=nightowl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSannt&layout=compact&theme=onedark)](https://github.com/FelipeSantt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSannt&layout=compact&theme=nightowl)](https://github.com/FelipeSantt/github-readme-stats)
 
 
 
@@ -22,9 +22,9 @@ Me chamo Felipe dos Santos Sampaio,tenho 29 anos estou em processo de transiçã
 Nome: Felipe dos Santos Sampaio<br/>
 Idade: 29 anos <br/>
 Localização: Fortaleza-CE <br/>
-Stack: Java - Spring - MySQL - JUnit - Python
+Stack: Java - Spring - MySQL - JUnit - Python<br/>
+Universidade: Estacio de Sá - Análise e desenvolvimento de Sistemas - 3° Semeste
 
 
-
-A tecnologia pode sim dar um mundo melhor e acessivel para todos!
+A tecnologia pode sim dar um mundo melhor e acessível para todos!
 
