@@ -23,7 +23,7 @@ Nome: Felipe dos Santos Sampaio<br/>
 Idade: 30 anos <br/>
 Localização: Fortaleza-CE <br/>
 Stack: Java - Spring - MySQL - JUnit - Python<br/>
-Universidade: Estacio de Sá - Análise e desenvolvimento de Sistemas - 3° Semeste
+Universidade: Estacio de Sá - Análise e desenvolvimento de Sistemas - 4° Semeste
 
 
 A tecnologia pode dar um mundo melhor e acessível para todos!
