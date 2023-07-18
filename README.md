@@ -16,11 +16,11 @@ Bem-vindo ao meu repositório no GitHub!Fico feliz com sua visita,espero que enc
 
 ### Um pouco sobre mim
 
-Me chamo Felipe dos Santos Sampaio,tenho 29 anos estou em processo de transição de carreira,ja desenvolvi alguns projetos em cursos realizados,estou em busca de uma oportunidade para colocar em prática os conhecimentos adquiridos. Atualmente estou estudando projetos Java com SpringBoot para área de Backend. Se está procurando alguem para ajuda-lo em projetos,que seja dedicado e sempre buscando aprender,nao hesite em entrar em contato por e-mail ou Linkedin.
+Me chamo Felipe dos Santos Sampaio,tenho 30 anos estou em processo de transição de carreira,ja desenvolvi alguns projetos em cursos realizados,estou em busca de uma oportunidade para colocar em prática os conhecimentos adquiridos. Atualmente estou estudando projetos Java com SpringBoot para área de Backend. Se está procurando alguem para ajuda-lo em projetos,que seja dedicado e sempre buscando aprender,nao hesite em entrar em contato por e-mail ou Linkedin.
 
 ### Informações detalhadas
 Nome: Felipe dos Santos Sampaio<br/>
-Idade: 29 anos <br/>
+Idade: 30 anos <br/>
 Localização: Fortaleza-CE <br/>
 Stack: Java - Spring - MySQL - JUnit - Python<br/>
 Universidade: Estacio de Sá - Análise e desenvolvimento de Sistemas - 3° Semeste
