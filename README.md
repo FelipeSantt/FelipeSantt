@@ -20,7 +20,7 @@ Me chamo Felipe dos Santos Sampaio,tenho 31 anos estou em processo de transiçã
 
 ### Informações detalhadas
 Nome: Felipe dos Santos Sampaio<br/>
-Idade: 30 anos <br/>
+Idade: 31 anos <br/>
 Localização: Fortaleza-CE <br/>
 Stack: Java - Spring - MySQL - JUnit - JavaScript - React - HTML5 - CSS - NodeJs - Express - RestFull - Microservices <br/>
 Universidade: Estacio de Sá - Análise e desenvolvimento de Sistemas - 4° Semeste
